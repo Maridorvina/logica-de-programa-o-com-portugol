@@ -1,5 +1,5 @@
 # Lógica de programação com Portugol
-===========================================================================
+
 
 ## Curso de lógica de programação com Portugol
 
