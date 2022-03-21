@@ -8,7 +8,7 @@ link para download http://lite.acad.univali.br/portugol/
 
 ---------------------------------------------------------------------------------------------------------------
 
-* Lista de exercicios feitos:
+### Lista de exercicios feitos:
 
 - *Desafio1-nitech*: Exibe o cálculo aritmético de valor do rendimento mensal de diversos tipos de conta
 
