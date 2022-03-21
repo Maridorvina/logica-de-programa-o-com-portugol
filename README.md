@@ -1,7 +1,7 @@
-# logica-de-programação-com-portugol
-===============================================================================================================
+# Lógica de programação com Portugol
+===========================================================================
 
-Curso de lógica de programação com Portugol
+## Curso de lógica de programação com Portugol
 
 Programa utlizado: Portugol
 link para download http://lite.acad.univali.br/portugol/
