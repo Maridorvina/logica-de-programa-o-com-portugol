@@ -13,9 +13,9 @@ link para download http://lite.acad.univali.br/portugol/
 - *Desafio1-nitech*: Exibe o cálculo aritmético de valor do rendimento mensal de diversos tipos de conta
 
 
-- *exercicio final*: 
+- *exercicio final*: Exibe uma tabela de matriz utilizando os laços de repetição ***"faca"*** e ***"enquanto"***, adiciona itens na lista da tabela (lista cadastro com: nomes, telefones e estados).
 
-- *matriz-exemplo1*: Exibe uma tabela de matriz utilizando os laços de repetição ***"faca"*** e ***"enquanto"***.
+- *matriz-exemplo1*: Exibe uma tabela de matriz utilizando os laços de repetição ***"faca"*** e ***"enquanto"***, gerando uma lista de frutas como exemplo.
 
 - *matriz-ingredientes*: Exibe uma tabela de matriz inteiro (lista de frutas)
 
